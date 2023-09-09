@@ -1,0 +1,30 @@
+0
+1.0
+20
+1000
+10
+500
+0.1
+0.1
+100
+4.0
+0.01
+0.95
+0.1
+3.0
+
+  ReadInput >> restart;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> nstart;
+  ReadInput >> nbins;
+  ReadInput >> delta_mu;
+  ReadInput >> delta_sigma;
+  ReadInput >> nanneal;
+  ReadInput >> temp_start;
+  ReadInput >> temp_min;
+  ReadInput >> alpha;
+  ReadInput >> mu0;
+  ReadInput >> sigma0;
+

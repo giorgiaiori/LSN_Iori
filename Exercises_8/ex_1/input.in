@@ -1,0 +1,18 @@
+0
+1.0
+100
+1000
+2000
+0.6
+0.6
+500
+
+
+  ReadInput >> restart;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> nstart;
+  ReadInput >> mu;
+  ReadInput >> sigma;
+  ReadInput >> nbins;
